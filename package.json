@@ -1,0 +1,22 @@
+{
+  "name": "say-hello",
+  "version": "1.0.0",
+  "description": "You can say hello with this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoGmz2001/SayHelloNpm.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "FernandoGmz2001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoGmz2001/SayHelloNpm/issues"
+  },
+  "homepage": "https://github.com/FernandoGmz2001/SayHelloNpm#readme"
+}
